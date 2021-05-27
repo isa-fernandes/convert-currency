@@ -1,3 +1,4 @@
+![Fun gif](https://github.com/isa-fernandes/convert-currency/blob/main/fungif.gif)
 # Convert Currency
 
 ## Project setup
